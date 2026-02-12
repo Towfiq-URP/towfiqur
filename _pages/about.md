@@ -1,11 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
----
-
-# About me
-
+layout: about
+title: about
+permalink: /
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
