@@ -1,8 +1,12 @@
 ---
-layout: about
-title: about
-permalink: /about
+layout: page
+title: About
+permalink: /about/
+---
 
+# About Us
+
+Here is some content about us...
 
 profile:
   align: right
