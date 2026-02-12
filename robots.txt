@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://towfiqurrashid.github.io/sitemap.xml
+Sitemap: https://towfiq-urp.github.io/towfiqur/sitemap.xml
