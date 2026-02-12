@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# About Us
+# About me
 
-Here is some content about us...
 
 profile:
   align: right
