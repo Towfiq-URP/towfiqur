@@ -1,17 +1,15 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Towfiqur Rashid",
+    "label": "Undergraduate Student (Final Year)",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "2007053.towfiq@gmail.com","2007053@student.ruet.ac.bd",
+    "phone": "(+880) 17414-58806",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Octroy Mor Jamrultola, Kazla, Motihar",
+      "postalCode": "6204",
+      "city": "Rajshahi",
+      "countryCode": "Bangladesh",
     },
     "profiles": []
   },
