@@ -15,7 +15,6 @@ cv:
 
   address:
     street: Octroy Mor Jamrultola, Kazla
-    police station: Motihar
     city: Rajshahi
     postalCode: 6204
     countryCode: Bangladesh
@@ -35,75 +34,75 @@ cv:
           - Description 1.
           - Description 2.
 
-      - institution: Notre Dame College
-        location: Dhaka, Bangladesh
-        area: Higher School Certificate (HSC)
-        studyType: Science
-        start_date: 2018
-        end_date: 2021
+    - institution: Notre Dame College
+      location: Dhaka, Bangladesh
+      area: Higher School Certificate (HSC)
+      studyType: Science
+      start_date: 2018
+      end_date: 2021
 
-      - institution: KAFCO School & College
-        location: Chattogram, Bangladesh
-        area: Secondary School Certificate (SSC)
-              Junior School Certificate (JSC)
-              Primary Education Completion Examination (PECE)
-        studyType: Science (in SSC)
-        start_date: 2007
-        end_date: 2018
+    - institution: KAFCO School & College
+      location: Chattogram, Bangladesh
+      area: Secondary School Certificate (SSC)
+            Junior School Certificate (JSC)
+            Primary Education Completion Examination (PECE)
+      studyType: Science (in SSC)
+      start_date: 2007
+      end_date: 2018
        
 
-    Research Experience:
-      - company: International Climate Camp 2025
-        position: International Participant
-        location: Tribhuvan University and Kathmandu University, Nepal
-        start_date: 2025-07-04
-        end_date: 2025-07-08
-        summary: Engaged in fieldwork, trekking, hands-on sustainability training, cross-cultural engagement, expert sessions,workshops, policy dialogues, and community-based actions focused on climate change and sustainable solutions
-        highlights:
-          - Environment Awareness
-          - Community Engagement.
+  Experience:
+    - company: International Climate Camp 2025
+      position: International Participant
+      location: Tribhuvan University and Kathmandu University, Nepal
+      start_date: 2025-07-04
+      end_date: 2025-07-08
+      summary: Engaged in fieldwork, trekking, hands-on sustainability training, cross-cultural engagement, expert sessions,workshops, policy dialogues, and community-based actions focused on climate change and sustainable solutions
+      highlights:
+        - Environment Awareness
+        - Community Engagement.
 
-      - company: Directorate of Research & Extension, Rajshahi University of Engineering & Technology
-        position: Research Assistant
-        location: Rajshahi, Bangladesh
-        start_date: November 2024
-        end_date: April 2025
-        highlights:
-          - Name of the research project: <i> “A Comprehensive Analysis of Integrated Approaches to Groundwater Management: A Case Study of the Northern Region in Bangladesh”. </i>  
-          - Conducted extensive literature review, multi-source data collection (surveys, FGDs, KIIs, PRA), field observations, stakeholder consultations, and hydro-socioeconomic analysis to develop integrated groundwater management strategies for northern Bangladesh.
+    - company: Directorate of Research & Extension, Rajshahi University of Engineering & Technology
+      position: Research Assistant
+      location: Rajshahi, Bangladesh
+      start_date: November 2024
+      end_date: April 2025
+      highlights:
+        - Name of the research project: <i> “A Comprehensive Analysis of Integrated Approaches to Groundwater Management: A Case Study of the Northern Region in Bangladesh”. </i>  
+        - Conducted extensive literature review, multi-source data collection (surveys, FGDs, KIIs, PRA), field observations, stakeholder consultations, and hydro-socioeconomic analysis to develop integrated groundwater management strategies for northern Bangladesh.
 
-    Leadership Experience:
-      - company: RUET GIS Club
-        position: Vice President
-        location: Rajshahi, Bangladesh
-        start_date: 2025-07-28
-        # end_date: 2015-07-01
-        # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        # highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+  Volunteer:
+    - company: RUET GIS Club
+      position: Vice President
+      location: Rajshahi, Bangladesh
+      start_date: 2025-07-28
+      # end_date: 2015-07-01
+      # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      # highlights:
+        - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+        - "Men of the year 2014 by Time magazine"
 
-      - company: Department of Urban & Regional Planning, Rajshahi University of Engineering & Technology
-        position: Class Representative
-        location: Rajshahi, Bangladesh
-        start_date: 2024-09-24
+    - company: Department of Urban & Regional Planning, Rajshahi University of Engineering & Technology
+      position: Class Representative
+      location: Rajshahi, Bangladesh
+      start_date: 2024-09-24
 
-    Awards:
-      - title: Youth's Idea at Sustainable Urban Planning 2025
-        position: 2nd
-        authors:
-          - "Urban Development Directorate, Ministry of Housing and Public Works, Government of Peoples Republic of Bangladesh"
-        date: 2025-05-28
-        awarder: Urban Development Directorate, Ministry of Housing and Public Works, Government of Peoples Republic of Bangladesh
-        url: https://www.linkedin.com/posts/towfiqur-rashid_%F0%9D%93%90%F0%9D%94%80%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%AD-%F0%9D%94%80%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B7%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0-%F0%9D%93%AA%F0%9D%93%B5%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BD-activity-7333873958355705859-AuvD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADschfsBGgOhud097teQUxpqnSjm9XiMqTY
-        summary: We have pitched our idea on 'The Economic Utilization of the Karnaphuli Tunnel with a Balanced Approach to Economic Growth and Ecological Preservation'. Our team has secured 2nd position among 60 teams.
+  Awards:
+    - title: Youth's Idea at Sustainable Urban Planning 2025
+      position: 2nd
+      authors:
+        - "Urban Development Directorate, Ministry of Housing and Public Works, Government of Peoples Republic of Bangladesh"
+      date: 2025-05-28
+      awarder: Urban Development Directorate, Ministry of Housing and Public Works, Government of Peoples Republic of Bangladesh
+      url: https://www.linkedin.com/posts/towfiqur-rashid_%F0%9D%93%90%F0%9D%94%80%F0%9D%93%AA%F0%9D%93%BB%F0%9D%93%AD-%F0%9D%94%80%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B7%F0%9D%93%B2%F0%9D%93%B7%F0%9D%93%B0-%F0%9D%93%AA%F0%9D%93%B5%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BD-activity-7333873958355705859-AuvD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADschfsBGgOhud097teQUxpqnSjm9XiMqTY
+      summary: We have pitched our idea on 'The Economic Utilization of the Karnaphuli Tunnel with a Balanced Approach to Economic Growth and Ecological Preservation'. Our team has secured 2nd position among 60 teams.
 
-      - title: 3rd National Research Project Contest 2024
-        authors:
-          - "Bangladesh University of Professionals (BUP) Research Society"
-        date: 2024-05
-        awarder: Bangladesh University of Professionals (BUP) Research Society
-        summary: Our team secured 2nd Runner-up position in '3rd National Research Project Contest 2024' amidst 88 competitors hailing from 31 universities throughout Bangladesh. The reseach paper was on 'Social and Environmental Impact Assessment of Urban Sprawl in Katakhali Municipality of Rajshahi, Bangladesh’.
+    - title: 3rd National Research Project Contest 2024
+      authors:
+        - "Bangladesh University of Professionals (BUP) Research Society"
+      date: 2024-05
+      awarder: Bangladesh University of Professionals (BUP) Research Society
+      summary: Our team secured 2nd Runner-up position in '3rd National Research Project Contest 2024' amidst 88 competitors hailing from 31 universities throughout Bangladesh. The reseach paper was on 'Social and Environmental Impact Assessment of Urban Sprawl in Katakhali Municipality of Rajshahi, Bangladesh’.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
