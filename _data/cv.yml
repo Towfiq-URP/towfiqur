@@ -1,0 +1,178 @@
+cv:
+  name: Towfiqur Rashid
+  label: Undergraduate Student
+  email: 2007053.towfiq@gmail.com, 2007053@student.ruet.ac.bd
+  location: Rajshahi, Bangladesh
+  image: ""
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
+
+  address:
+    street: Octroy Mor Jamrultola, Kazla
+    city: Rajshahi
+    # region: Rajshahi Division
+    postalCode: 6200
+    countryCode: BD
+
+  sections:
+    Education:
+      - institution: Rajshahi University of Engineering & Technology
+        location: Rajshahi, Bangladesh
+        url: https://www.ruet.ac.bd/
+        area: Urban & Regional Planning
+        studyType: Bachelor of Urban & Regional Planning
+        start_date: 2022
+        # end_date: 1905
+        score: "3.63/4.00"
+        courses: "Theory of Relativity"
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Notre Dame College
+        location: Dhaka, Bangladesh
+        area: Science
+        studyType: Higher School Certificate (HSC)
+        start_date: 2018
+        end_date: 2021
+        score: "5.00/5.00"
+      
+      - institution: KAFCO School & College
+        location: Chattogram, Bangladesh
+        area: Science
+        studyType: Secondary School Certificate (SSC)
+        start_date: 2016
+        end_date: 2018
+        score: "5.00/5.00"
+
+    Experience:
+      - company: International Climate Camp 2025
+        position: International Delegate
+        location: Tribhuvan University and 
+                  Kathmandu University, Nepal
+        start_date: 2025-07-04
+        end_date: 2025-07-08
+        summary:  Engaged in fieldwork, trekking, hands-on sustainability training, cross-cultural engagement, expert sessions,workshops, policy dialogues, and community-based actions focused on climate change and sustainable solutions
+        highlights:
+          - Environment Awareness
+          - Community Engagement.
+
+      - company: Directorate of Research & Extension, Rajshahi University of Engineering & Technology
+        position: Research Assistant
+        location: Rajshahi, Bangladesh
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Name of the research project: <i> “A Comprehensive Analysis of Integrated Approaches to Groundwater Management: A Case Study of the Northern Region in Bangladesh”. </i> 
+          - Conducted extensive literature review, multi-source data collection (surveys, FGDs, KIIs, PRA), field observations, stakeholder consultations, and hydro-socioeconomic analysis to develop integrated groundwater management strategies for northern Bangladesh.
+
+    Volunteer:
+      - company: RUET GIS Club
+        position: Vice President
+        location: Rajshahi, Bangladesh
+        start_date: 2025-07-28
+        # end_date: 2025-07-01
+        # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        # highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+
+    Awards:
+      - title: 2nd prize winner at Youth's Idea at Sustainable Urban Planning 2025
+        authors:
+          - "Urban Development Directorate, Ministry of Housing and Public Works, Government of People's Republic of Bangladesh"
+        date: 2025-05-28
+        awarder: Urban Development Directorate, Ministry of Housing and Public Works, Government of People's Republic of Bangladesh
+        url: https://www.facebook.com/share/p/1DjMCUtpja/ 
+        summary: We have pitched our idea on 'The Economic Utilization of the Karnaphuli Tunnel with a Balanced Approach to Economic Growth and Ecological Preservation'. Our team has secured 2nd position among 60 teams.
+
+      - title: 2nd Runner-up at 3rd National Research Project Contest 2024
+        authors:
+          - "Bangladesh University of Professionals (BUP) Research Society"
+        date: 2024-05-10
+        awarder: Bangladesh University of Professionals (BUP) Research Society
+        summary: Our team secured 2nd Runner-up position amidst 88 competitors hailing from 31 universities throughout Bangladesh. The reseach paper was on 'Social and Environmental Impact Assessment of Urban Sprawl in Katakhali Municipality of Rajshahi, Bangladesh’.
+
+    Publications:
+      - title: ASSESSMENT OF INTERSECTION PERFORMANCE USING TRAFFIC VOLUME AND LAND USE-TRANSPORTATION RELATIONSHIP EVIDENCE FROM RAJSHAHI, BANGLADESH
+        authors:
+          - Priyam Riddha Biswas, Jannat Jahrah, Jakia Ahmed, Muhammad Waresul Hassan Nipun, Jahid Hasan
+        publisher: 8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026), Khulna University of Engineering & Technology, Khulna, Bangladesh
+        releaseDate: 2026-02-06
+        url: https://www.researchgate.net/publication/400576865_ASSESSMENT_OF_INTERSECTION_PERFORMANCE_USING_TRAFFIC_VOLUME_AND_LAND_USE-TRANSPORTATION_RELATIONSHIP_EVIDENCE_FROM_RAJSHAHI_BANGLADESH
+        summary: This paper discusses about intersection performance of Dhaka-Rajshahi Highway, an important highway of Bangladesh. This study also corelates land use and transportation by assessing socio-economic factor (Kij) of Gravity Model deriving from O-D Matrix.
+
+      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1905-03-18
+        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+
+      - title: Die Grundlage der allgemeinen Relativitätstheorie
+        authors:
+          - Albert Einstein
+        publisher: Annalen der Physik
+        releaseDate: 1916-03-20
+        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+    Skills:
+      - name: Physics
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Languages:
+      - name: German
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
+
+      - name: Quantum Computing
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-tag
+
+      - name: Quantum Information
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-envelope
+
+    Projects:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        highlights:
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
+
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
