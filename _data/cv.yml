@@ -4,13 +4,10 @@ cv:
   email: 2007053.towfiq@gmail.com, 2007053@student.ruet.ac.bd
   location: Rajshahi, Bangladesh
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
       username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
       username: example
 
@@ -36,26 +33,31 @@ cv:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Notre Dame College
+        location: Dhaka, Bangladesh
+        area: Science
+        studyType: Higher School Certificate (HSC)
+        start_date: 2018
+        end_date: 2021
+
+      - institution: KAFCO School & College
+        location: Chattogram, Bangladesh
+        area: Science
+        studyType: Secondary School Certificate (SSC)
+        start_date: 2016
+        end_date: 2018
+      
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: International Climate Camp 2025
+        position: International Participant
+        location: Tribhuvan University and Kathmandu University, Nepal
+        start_date: 2025-07-04
+        end_date: 2025-07-08
+        summary: Engaged in fieldwork, trekking, hands-on sustainability training, cross-cultural engagement, expert sessions,workshops, policy dialogues, and community-based actions focused on climate change and sustainable solutions
         highlights:
-          - Relativity
-          - Description 2.
+          - Environment Awareness
+          - Community Engagement.
 
       - company: California Institute of Technology
         position: Visiting Professor
