@@ -1,7 +1,7 @@
 cv:
   name: Towfiqur Rashid
   label: Undergraduate Student
-  email: 2007053.towfiq@gmail.com, 2007053@student.ruet.ac.bd
+  email: 2007053.towfiq@gmail.com
   location: Rajshahi, Bangladesh
   image: ""
   summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
@@ -70,7 +70,7 @@ cv:
         start_date: 2024
         end_date: 2025
         highlights:
-          - Name of the research project “A Comprehensive Analysis of Integrated Approaches to Groundwater Management A Case Study of the Northern Region in Bangladesh”. </i> 
+          - Name of the research project A Comprehensive Analysis of Integrated Approaches to Groundwater Management A Case Study of the Northern Region in Bangladesh. 
           - Conducted extensive literature review, multi-source data collection (surveys, FGDs, KIIs, PRA), field observations, stakeholder consultations, and hydro-socioeconomic analysis to develop integrated groundwater management strategies for northern Bangladesh.
 
     Volunteer:
