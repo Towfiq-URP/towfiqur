@@ -70,7 +70,7 @@ cv:
         start_date: 2024
         end_date: 2025
         highlights:
-          - Name of the research project: <i> “A Comprehensive Analysis of Integrated Approaches to Groundwater Management: A Case Study of the Northern Region in Bangladesh”. </i> 
+          - Name of the research project “A Comprehensive Analysis of Integrated Approaches to Groundwater Management A Case Study of the Northern Region in Bangladesh”. </i> 
           - Conducted extensive literature review, multi-source data collection (surveys, FGDs, KIIs, PRA), field observations, stakeholder consultations, and hydro-socioeconomic analysis to develop integrated groundwater management strategies for northern Bangladesh.
 
     Volunteer:
@@ -80,9 +80,9 @@ cv:
         start_date: 2025-07-28
         # end_date: 2025-07-01
         # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        # highlights:
-          # - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          # - "Men of the year 2014 by Time magazine"
+        highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
 
     Awards:
       - title: 2nd prize winner at Youth's Idea at Sustainable Urban Planning 2025
