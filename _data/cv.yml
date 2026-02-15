@@ -1,0 +1,240 @@
+cv:
+  name: Towfiqur Rashid
+  label: Undergraduate Student
+  email: 2007053.towfiq@gmail.com
+  location: Rajshahi, Bangladesh
+  image: ""
+
+
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
+
+  address:
+    street: Octroy Mor Jamrultola, Kazla
+    city: Rajshahi
+    # region: Rajshahi Division
+    postalCode: 6200
+    countryCode: BD
+
+  sections:
+    Education:
+      - institution: Rajshahi University of Engineering & Technology
+        location: Rajshahi, Bangladesh
+        url: https://www.ruet.ac.bd/
+        area: Urban & Regional Planning
+        studyType: Bachelor of Urban & Regional Planning
+        start_date: 2022
+        # end_date: 1905
+        score: "3.63/4.00"
+        courses: "Theory of Relativity"
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Notre Dame College
+        location: Dhaka, Bangladesh
+        area: Science
+        studyType: Higher School Certificate (HSC)
+        start_date: 2018
+        end_date: 2021
+        score: "5.00/5.00"
+      
+      - institution: KAFCO School & College
+        location: Chattogram, Bangladesh
+        area: Science
+        studyType: Secondary School Certificate (SSC)
+        start_date: 2016
+        end_date: 2018
+        score: "5.00/5.00"
+
+    Experience:
+      - company: International Climate Camp 2025
+        position: International Delegate
+        location: Tribhuvan University and 
+                  Kathmandu University, Nepal
+        start_date: 2025-07-04
+        end_date: 2025-07-08
+        summary:  Engaged in fieldwork, trekking, hands-on sustainability training, cross-cultural engagement, expert sessions,workshops, policy dialogues, and community-based actions focused on climate change and sustainable solutions
+        highlights:
+          - Environment Awareness
+          - Community Engagement.
+
+      - company: Directorate of Research & Extension, Rajshahi University of Engineering & Technology
+        position: Research Assistant
+        location: Rajshahi, Bangladesh
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Name of the research project “A Comprehensive Analysis of Integrated Approaches to Groundwater Management:A Case Study of the Northern Region in Bangladesh”. 
+          - Conducted extensive literature review, multi-source data collection (surveys, FGDs, KIIs, PRA), field observations, stakeholder consultations, and hydro-socioeconomic analysis to develop integrated groundwater management strategies for northern Bangladesh.
+
+    Volunteer:
+      - company: RUET GIS Club
+        position: Vice President
+        location: Rajshahi, Bangladesh
+        start_date: 2025-07-28
+        # end_date: 2025-07-01
+        # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        
+
+    Awards:
+      - title: 2nd prize winner at Youth's Idea at Sustainable Urban Planning 2025
+        authors:
+          - "Urban Development Directorate, Ministry of Housing and Public Works, Government of People's Republic of Bangladesh"
+        date: 2025-05-28
+        awarder: Urban Development Directorate, Ministry of Housing and Public Works, Government of People's Republic of Bangladesh
+        url: https://www.facebook.com/share/p/1DjMCUtpja/ 
+        summary: We have pitched our idea on 'The Economic Utilization of the Karnaphuli Tunnel with a Balanced Approach to Economic Growth and Ecological Preservation'. Our team has secured 2nd position among 60 teams.
+
+      - title: 2nd Runner-up at 3rd National Research Project Contest 2024
+        authors:
+          - "Bangladesh University of Professionals (BUP) Research Society"
+        date: 2024-05-10
+        awarder: Bangladesh University of Professionals (BUP) Research Society
+        summary: Our team secured 2nd Runner-up position amidst 88 competitors hailing from 31 universities throughout Bangladesh. The reseach paper was on 'Social and Environmental Impact Assessment of Urban Sprawl in Katakhali Municipality of Rajshahi, Bangladesh’.
+
+    Publications:
+      - title: ASSESSMENT OF INTERSECTION PERFORMANCE USING TRAFFIC VOLUME AND LAND USE-TRANSPORTATION RELATIONSHIP EVIDENCE FROM RAJSHAHI, BANGLADESH
+        authors:
+          - Muhammad Waresul Hassan Nipun, Jahid Hasan, Towfiqur Rashid, Priyam Riddha Biswas, Jannat Jahrah, Jakia Ahmed
+        publisher: 8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026), Khulna University of Engineering & Technology, Khulna, Bangladesh
+        releaseDate: 2026-02-06
+        url: https://www.researchgate.net/publication/400576865_ASSESSMENT_OF_INTERSECTION_PERFORMANCE_USING_TRAFFIC_VOLUME_AND_LAND_USE-TRANSPORTATION_RELATIONSHIP_EVIDENCE_FROM_RAJSHAHI_BANGLADESH
+        summary: This paper discusses about intersection performance of Dhaka-Rajshahi Highway, an important highway of Bangladesh. This study also corelates land use and transportation by assessing socio-economic factor (Kij) of Gravity Model deriving from O-D Matrix.
+
+      - title: FLASH FLOOD HAZARD ASSESSMENT USING A GIS-INTEGRATED FUZZY AHP-MCDA TO INFORM NATURE-BASED SOLUTIONS IN FENI AND NOAKHALI, BANGLADESH
+        authors:
+          - Imtiaj Iqbal Mahfuj, Nawreen Ferdous Tamim, Towfiqur Rashid, Junaid Imam Adib
+        publisher: 8th International Conference on Civil Engineering for Sustainable Development (ICCESD 2026), Khulna University of Engineering & Technology, Khulna, Bangladesh
+        releaseDate: 2026-02-05
+        url: https://www.researchgate.net/publication/400576696_FLASH_FLOOD_HAZARD_ASSESSMENT_USING_A_GIS-INTEGRATED_FUZZY_AHP-MCDA_TO_INFORM_NATURE-BASED_SOLUTIONS_IN_FENI_AND_NOAKHALI_BANGLADESH
+        summary: Bangladesh faced a devastating flash flood in Feni and Noakhali, two coastal districts of Bangladesh in 2024. This study has assessed flash flood hazard with Flood Hazard Index (FHI) using a GIS-integrated fuzzy AHP-MCDA approach. and also informs nature-based solutions for flash flood management. 
+
+      - title: A Remote Sensing-Based Analysis of Nighttime Light Pollution and Its Regional Spillover Effects in Dhaka, Bangladesh
+        authors:
+          - Imtiaj Iqbal Mahfuj, Nawreen Ferdous Tamim, Towfiqur Rashid, Md. Sabbir Hossain, Md. Abdullah Al Amin, Md. Mehedi Hasan
+        publisher: 8th International Conference on Engineering Research, Innovation and Education (ICERIE 2025), Shahjalal University of Science and Technology, Sylhet, Bangladesh
+        releaseDate: 2025-04-26
+        url: https://www.researchgate.net/publication/400576713_A_Remote_Sensing-Based_Analysis_of_Nighttime_Light_Pollution_and_Its_Regional_Spillover_Effects_in_Dhaka_Bangladesh
+        summary: This study has analyzed nighttime light pollution in Dhaka, the capital city of Bangladesh and its regional spillover effects on surrounding areas using remote sensing data. The findings reveal significant light pollution in Dhaka, with spillover effects extending to neighboring regions, highlighting the need for effective light pollution management strategies.
+
+      - title: Exploring Challenges and Opportunities in Community- Based Rural Tourism:A Stakeholder Perspective from Naogaon, Rajshahi, Bangladesh
+        authors:
+          - Tasnim Mahmud Rifat, Towfiqur Rashid, Taraquzzaman Tonmoy, Md. Abdul Wakil, Dulal Sarker, Md. Naimur Rahman
+        publisher: 10th International INSEARCH Conference on Governance in Society, Business and Environment
+        releaseDate: 2025-02-24
+        url:https://www.researchgate.net/publication/391240123_Exploring_Challenges_and_Opportunities_in_Community-_Based_Rural_Tourism_A_Stakeholder_Perspective_from_Naogaon_Rajshahi_Bangladesh
+        summary: This study has explored challenges and opportunities in community-based rural tourism in Naogaon district, Bangladesh from a stakeholder perspective. The level of sustainability will be analyzed by the Multi-Dimensional Scaling (MDS) method and the level of priority of future initiatives will be analyzed by the Analytical Hierarchy Process (AHP) method. The findings reveal that while there are significant opportunities for community-based rural tourism in Naogaon, there are also several challenges that need to be addressed to ensure sustainable development of the tourism industry in the region.
+
+      - title: REVITALIZING URBAN ACCESSIBILITY:CREATING A PEDESTRIAN PRECINCT FROM ZERO POINT TO MONI CHATTOR IN RAJSHAHI CITY, BANGLADESH
+        authors:
+          - Tasnim Mahmud Rifat, Towfiqur Rashid, Md Tarekh Hasan, Taraquzzaman Tonmoy, Dulal Sarker, Md. Shakil Ar Salan
+        publisher: 7th International Conference on Advances in Civil Engineering (ICACE 2024), Chittagong University of Engineering & Technology, Chattogram, Bangladesh
+        releaseDate: 2024-12-13
+        url: https://www.researchgate.net/publication/388116668_REVITALIZING_URBAN_ACCESSIBILITY_CREATING_A_PEDESTRIAN_PRECINCT_FROM_ZERO_POINT_TO_MONI_CHATTOR_IN_RAJSHAHI_CITY_BANGLADESH
+        summary: This study has proposed a plan to revitalize urban accessibility by creating a pedestrian precinct from Zero Point to Moni Chattor in Rajshahi City, Bangladesh. The proposed pedestrian precinct aims to enhance walkability, promote sustainable transportation, and improve the overall urban environment in the area. The findings suggest that the implementation of the pedestrian precinct could significantly improve accessibility and quality of life for residents and visitors in Rajshahi City.
+
+      - title: INVESTIGATING THE EFFECTS OF URBAN SPRAWL FROM SOCIAL AND ENVIRONMENTAL PERSPECTIVE IN KATAKHALI MUNICIPALITY, RAJSHAHI
+        authors:
+          - Towfiqur Rashid, Tasnim Mahmud Rifat, Md Tarekh Hasan, Taraquzzaman Tonmoy, Dulal Sarker, Muhaiminul Islam
+        publisher: 7th International Conference on Advances in Civil Engineering (ICACE 2023), Chittagong University of Engineering & Technology, Chattogram, Bangladesh
+        releaseDate: 2023-12-13
+        url: https://www.researchgate.net/publication/388221045_INVESTIGATING_THE_EFFECTS_OF_URBAN_SPRAWL_FROM_SOCIAL_AND_ENVIRONMENTAL_PERSPECTIVE_IN_KATAKHALI_MUNICIPALITY_RAJSHAHI
+        summary: This study has assessed the impact of urban sprawl on land use change in Katakhali Municipality, Rajshahi, Bangladesh. The findings reveal that urban sprawl has led to significant land use changes in the area, including the conversion of agricultural land to residential and commercial uses. The study highlights the need for effective urban planning and management strategies to mitigate the negative impacts of urban sprawl and promote sustainable development in the region.
+
+    Skills:
+      - name: Real-time Object Detection
+        level: Intermediate
+        icon: fa-solid fa-hashtag
+        keywords: "YOLOv8, TensorFlow Object Detection API, DTDNet, OpenCV"
+
+      - name: Image Classification
+        level: Intermediate
+        icon: fa-solid fa-hashtag
+        keywords: "ResNet, Inception, DenseNet"
+
+      - name: Drone Operation
+        level: Intermediate
+        icon: fa-solid fa-hashtag
+        keywords: "Pre Flight Planning, Flight Execution, DroneDeploy, DJI Mavic Air 2"
+
+      - name: Traffic Simulation
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "PTV VISSIM"
+
+      - name: Machine Learning
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Convulational Neural Network (CNN), Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Gradient Boosting "
+
+      - name: Remote Sensing
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Landsat, Sentinel, MODIS, NDVI, Land Use/Land Cover (LULC) Classification, Change Detection"
+
+      - name: Geographic Information Systems (GIS)
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "ArcGIS Pro, AtcGIS Online, CityEngine, Google Earth Engine, Network Analysis, Geospatial Data Visualization"
+
+      - name: Statistical Analysis
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "SPSS, Python, Hypothesis Testing, Regression Analysis, ANOVA"  
+
+      - name: 2D and 3D Modeling and Rendering
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "AutoCAD, SketchUp, Twinmotion, Lumion, Canva, Adobe Premiere Pro"
+
+    Languages:
+      - name: Bangla
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+
+    Certificates:
+      - name: Machine Learning
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-location-dot
+
+      - name: Quantum Computing
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-tag
+
+      - name: Quantum Information
+        date: 2018-01-01
+        issuer: Stanford University
+        icon: fa-solid fa-envelope
+
+    Projects:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        highlights:
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
+
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
